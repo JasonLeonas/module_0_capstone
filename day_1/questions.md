@@ -2,14 +2,14 @@
 
 1. How would you print the string `"Hello World!"` to the terminal?
    - Navigate to desired directory.
-   - type 'touch <filename>.rb'
+   - type `touch <filename>.rb`
    - Open file in text editor and add the following line:
    ```
    puts "Hello World!"
    ```
-   - Save, go back to the terminal and write 'ruby <filename>.rb'
+   - Save, go back to the terminal and write `ruby <filename>.rb`
 1. What is the character you would use to indicate comments in a ruby file?
-   - Hash symobl (#)
+   - Hash symbol (#)
 
 1. Explain the difference between an integer and a float?
    - Integer is a whole number, such as 1, 5, 29, or 428.

@@ -1,0 +1,9 @@
+- .sort - sort will go through all elements in an array, rearrange them (alphabetical if strings, ascending value if numbers), and return a new arrays
+- .each - each will iterate through each element of the array and performs the block statement specified. It then prints each new value, but doesn't return anything
+- .join - join will take each string in the array, and return one string with each element of the array. These can be separated by using a separator.
+- .index - index will return the first array element index number where an element equals an object.
+- .include? - include? will take an array and return true/false if the specified object is included within the array.
+- .collect - collect is similar to .each above. It will iterate through each element of the array, performing the block statement specified. However it will create an array as a return value (whereas .each only prints the value).
+- .first - first will take an array and return the first element of the array. If you specify a number (n) of elements, then the first n elements will be returned.
+- .last - similar to .first, last will take an array and return the last element of the array. If you specify a number (n) of elements, then the last n elements will be returned.
+- .shuffle - shuffle will take an array, and randomly reorganize the array, and return a new array.
